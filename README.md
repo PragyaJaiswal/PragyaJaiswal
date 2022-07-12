@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Pragya 👋
 
-<!--
-**PragyaJaiswal/PragyaJaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm a Machine Learning Engineer!
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning to run longer distances
+- :book: I’m currently reading [Designing Machine Learning Systems](https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems)
+- 😄 Pronouns: She / Her
+- 🥅 2022 Goals: Network more
+<!-- - ⚡ Fun fact: -->
+
+### Connect with me:
+[<img align="left" alt="Pragya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pragyajswl/)

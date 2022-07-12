@@ -4,7 +4,7 @@
 #### I'm a Machine Learning Engineer!
 ---
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently using Python
 - 🌱 I’m currently learning to run longer distances
 - :book: I’m currently reading [Designing Machine Learning Systems](https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems)
 - 😄 Pronouns: She / Her
@@ -13,3 +13,4 @@
 
 ### Connect with me:
 [<img align="left" alt="Pragya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pragyajswl/)
+

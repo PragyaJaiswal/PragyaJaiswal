@@ -1,7 +1,7 @@
 ## Hi there, I'm Pragya 👋
 
 
-#### I'm a Computer Vision Engineer!
+#### I'm a Computer Vision / Machine Learning Engineer!
 ---
 
 - 🔭 I’m currently using Python
